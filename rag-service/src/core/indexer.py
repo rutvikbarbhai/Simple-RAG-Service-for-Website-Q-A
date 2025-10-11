@@ -1,5 +1,3 @@
-# filename: src/core/indexer.py
-
 import json
 from sentence_transformers import SentenceTransformer
 import chromadb
