@@ -1,4 +1,4 @@
-# Simple RAG Service for Website Q&A
+# <img src="https://github.com/user-attachments/assets/ed86026d-6c9d-4fc3-b324-b58defa239de" width="45px"> Simple RAG Service for Website Q&A
 This project is a simple, self-contained Retrieval-Augmented Generation (RAG) service. Given a starting URL, it crawls a website, indexes its content, and answers questions strictly based on the information it has collected, providing citations for its answers.
 
 ---
@@ -29,6 +29,7 @@ This project is a simple, self-contained Retrieval-Augmented Generation (RAG) se
 
 ```
 ## <img src="https://github.com/user-attachments/assets/c867040d-ee55-406b-959b-332d3d9997b1" height="25px" style="vertical-align: middle; margin-right: 5px;"> Architecture
+<img width="761" height="360" alt="image" src="https://github.com/user-attachments/assets/b552a692-091d-441d-bc71-ccb3fae66a0d" />
 
 The system follows a three-stage pipeline:
 
