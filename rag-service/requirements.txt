@@ -1,0 +1,14 @@
+# Web Service
+fastapi
+uvicorn
+
+# Web Crawling
+scrapy
+tldextract
+beautifulsoup4
+
+# RAG & AI
+sentence-transformers
+chromadb
+ollama
+pydantic
