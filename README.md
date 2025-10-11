@@ -1,5 +1,3 @@
-# filename: README.md
-
 # Simple RAG Service for Website Q&A
 
 This project is a simple, self-contained Retrieval-Augmented Generation (RAG) service. Given a starting URL, it crawls a website, indexes its content, and answers questions strictly based on the information it has collected, providing citations for its answers.
