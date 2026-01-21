@@ -39,6 +39,9 @@ The system follows a three-stage pipeline:
 
 3️⃣.  **Ask**: A user's question is embedded, and a similarity search retrieves the most relevant text chunks from ChromaDB. These chunks are passed as context to a local LLM (via `Ollama`) with a carefully engineered prompt that forces it to answer *only* from the provided text and refuse if the information is not present.
 
+## <img src="https://github.com/user-attachments/assets/6672ee8c-15ed-4fb5-9cd5-63c04ac747c1" height="24px" style="vertical-align:bottom;"> Project Demonstration
+
+
 https://github.com/user-attachments/assets/55450faf-5e3b-42a5-9574-934e893846ca
 
 
